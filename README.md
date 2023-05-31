@@ -1,4 +1,4 @@
-![greeting_git](https://github.com/moneyrobot2023/Telegram-shop-bot-main2023/blob/main/ЛОГОТИП.jpg?raw=true)
+![greeting_git](https://github.com/moneyrobot2023/Telegram-shop-bot-main2023/blob/main/imgonline-com-ua-Resize-OzNWk0sJ1OtAoaA5.jpg?raw=true)
 
 
 # 🔷 # Телеграм-shopBot
